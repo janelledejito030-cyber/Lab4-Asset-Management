@@ -1,4 +1,9 @@
 Systems Analysis and Design — Laboratory 4, Section A
+User Roles
+Role	Permitted Functions
+Administrator	Manage users and equipment; approve/reject requests; manage maintenance; view reports and audit logs
+Laboratory Staff	View equipment; create borrowing transactions; process returns; submit maintenance requests; update permitted records
+Requester / Viewer	View available equipment; submit borrowing requests; view own request status and history
 3. Updated ERD and Use Case Diagram
 <img width="597" height="376" alt="Screenshot 2026-09-15 110651" src="https://github.com/user-attachments/assets/90dfa09d-3301-4c5c-a1bc-e8e7ee4fdf3e" />
 Use Case Diagram
