@@ -1,8 +1,8 @@
 Systems Analysis and Design — Laboratory 4, Section A
 
-3. Updated ERD and Use Case Diagram
+## 3. Updated ERD 
 <img width="597" height="376" alt="Screenshot 2026-09-15 110651" src="https://github.com/user-attachments/assets/90dfa09d-3301-4c5c-a1bc-e8e7ee4fdf3e" />
-Use Case Diagram
+## Use Case Diagram
 <img width="810" height="420" alt="image" src="https://github.com/user-attachments/assets/56c3e009-0e26-40d6-bcb6-f0f664b743b6" />
 
 ## 4. Role-Permission Matrix
