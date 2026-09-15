@@ -5,19 +5,19 @@ Systems Analysis and Design — Laboratory 4, Section A
 Use Case Diagram
 <img width="810" height="420" alt="image" src="https://github.com/user-attachments/assets/56c3e009-0e26-40d6-bcb6-f0f664b743b6" />
 
-4. Role-Permission Matrix
-| Permission | Administrator | Laboratory Staff | Requester |
+## 4. Role-Permission Matrix
+
+| Permission | Admin | Lab Staff | Requester |
 |---|:---:|:---:|:---:|
 | View equipment | Yes | Yes | Yes |
 | Create borrowing transactions | Yes | Yes | Yes |
-| Process returns | Yes | Yes | No |
+| Process returns | Yes | Yes | Yes |
 | Submit maintenance requests | No | Yes | No |
-| Update permitted workflow records | Yes | Yes | No |
-| Manage users and equipment | Yes | No | No |
-| Approve or reject requests | Yes | No | No |
-| Manage maintenance status | Yes | No | No |
-| View reports and audit logs | Yes | No | No |
-
+| Update workflow records | Yes | Yes | No |
+| Manage equipment | Yes | No | No |
+| Approve/reject requests | Yes | No | No |
+| Manage maintenance status | Yes | Yes | No |
+| View reports & audit logs | Yes | No | No |
 5. Workflow Diagram
 6. Business Rules
 | Rule ID | Business Rule |
