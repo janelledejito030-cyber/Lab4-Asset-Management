@@ -19,7 +19,8 @@ Use Case Diagram
 | Manage maintenance status | Yes | Yes | No |
 | View reports & audit logs | Yes | No | No |
 5. Workflow Diagram
-6. Business Rules
+## 6. Business Rules
+
 | Rule ID | Business Rule |
 |---|---|
 | BR-A4-01 | Only available equipment may be requested. |
@@ -36,7 +37,8 @@ Use Case Diagram
 7. Audit-Log Screenshot
    <img width="944" height="496" alt="image" src="https://github.com/user-attachments/assets/80b03ba2-5983-45d1-bfd6-16e11f914284" />
    
-9. Functional Test Results
+## 8. Functional Test Results
+
 | Test ID | Scenario | Expected Result | Result |
 |---|---|---|---|
 | TC-A4-01 | Viewer attempts to open Admin page | Access is denied. | PASS |
